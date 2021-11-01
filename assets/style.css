@@ -87,6 +87,13 @@ section {
     font-size: 1.55vw;
 }
 
+.contact-me ul li a:hover {
+    border-radius: 15px;
+    text-shadow: none;
+    color: royalblue;
+}
+
+
 .my-work img {
     max-width: 450px;
     max-height: 300px;
@@ -96,5 +103,9 @@ section {
     max-width: 750px;
     max-height: 600px;
     display: block;
+}
 
+.my-work p {
+    text-decoration: none;
+    color: purple;
 }
