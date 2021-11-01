@@ -71,3 +71,30 @@ section {
     max-width: 300px;
     max-height: 450px;
 }
+
+.contact-me a {
+    text-decoration: none;
+    color: purple;
+}
+
+.contact-me ul {
+    align-items: center;
+    list-style: none;
+}
+
+.contact-me ul li a {
+    font-weight: lighter;
+    font-size: 1.55vw;
+}
+
+.my-work img {
+    max-width: 450px;
+    max-height: 300px;
+}
+
+.my-work img:hover {
+    max-width: 750px;
+    max-height: 600px;
+    display: block;
+
+}
