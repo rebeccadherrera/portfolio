@@ -41,9 +41,9 @@ header h1 {
 }
 
 header nav ul li a {
-    padding: 10px 15px;
+    padding: 5px 10px;
     font-weight: lighter;
-    font-size: 1.55vw;
+    font-size: 14px;
     color: purple;
 }
 
@@ -80,11 +80,12 @@ section {
 .contact-me ul {
     align-items: center;
     list-style: none;
+    size: 20px;
 }
 
 .contact-me ul li a {
     font-weight: lighter;
-    font-size: 1.55vw;
+    font-size: 20px;
 }
 
 .contact-me ul li a:hover {
